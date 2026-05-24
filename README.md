@@ -99,6 +99,20 @@ GitHub Actions is used to:
 
 ---
 
+## Screenshots
+
+### Browser
+![Browser](Screenshots/browser.jpeg)
+
+### Docker Hub
+![Docker Hub](Screenshots/docker hub.jpeg)
+
+### GitHub Actions
+![GitHub](Screenshots/github.jpeg)
+
+### Kubernetes
+![Kubernetes](Screenshots/kubernetes.jpeg)
+
 ## Author
 
 Yashaswini
