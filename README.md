@@ -105,7 +105,7 @@ GitHub Actions is used to:
 ![Browser](Screenshots/browser.jpeg)
 
 ### Docker Hub
-![Docker Hub](Screenshots/docker_hub.jpeg)
+![Docker Hub](Screenshots/dockerhub.jpeg)
 
 ### GitHub Actions
 ![GitHub](Screenshots/github.jpeg)
